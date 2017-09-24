@@ -1,6 +1,6 @@
 # fsm-pres
 
-> A Vue.js project
+> A Vue.js project created to present an idea of JavaScript Finite-State Machines (FSM).
 
 ## Build Setup
 
